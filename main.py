@@ -3,7 +3,7 @@ from pkg.plugin.events import *
 
 
 # 注册插件
-@register(name="Hello", description="hello world", version="0.1", author="RockChinQ")
+@register(name="NikoPlugin", description="NikoNiko Ready Run", version="0.0.1", author="TeaNiko")
 class MyPlugin(BasePlugin):
 
     # 插件加载时触发
